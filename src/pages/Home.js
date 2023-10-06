@@ -7,9 +7,9 @@ function Home() {
     <Container maxWidth={false} disableGutters>
       {/* About section */}
       <Box className="about">
-        <Typography variant="h2">Hi, my name is Parsa.</Typography>
+        <Typography variant="h2">Hi, my name is Jad.</Typography>
         <Box className="about-sub">
-          <Typography variant="h5">I'm a full-stack web developer.</Typography>
+          <Typography variant="h5">I'm a Mechnaical Engineering student with a minor in AI.</Typography>
           <LinkedIn />
           <Instagram />
           <Facebook />
@@ -26,9 +26,6 @@ function Home() {
           textAlign="center"
           className="list"
         >
-          <Typography align="center" variant="h3">
-            Frontend
-          </Typography>
           <Typography align="center" variant="body1">
             ReactJS, Angular, Redux, HTML, CSS,
           </Typography>

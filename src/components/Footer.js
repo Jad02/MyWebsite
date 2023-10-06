@@ -10,7 +10,7 @@ function Footer() {
             <Instagram />
             <Facebook />
         </div>
-        <p> &copy; 2022 ParsaLangari.com </p>
+        <p> &copy; 2023 JadAshkar.com </p>
     </div>
   )
 }
